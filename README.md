@@ -18,7 +18,7 @@ To add a comment to a counting number, add a `~` between the number and the comm
 Example:
 
 ```
-42 ~ this is my lucky number
+67 ~ this is my lucky number
 ```
 
 The bot will count this as `42` while keeping the comment.
@@ -74,10 +74,6 @@ If no member is provided, it shows the statistics of the person running the comm
 Reports an issue with EasyCount to the developers.
 
 ---
-
-### `/readme`
-
-Shows this documentation inside Discord.
 
 ## Support
 
