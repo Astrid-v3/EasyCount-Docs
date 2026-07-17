@@ -33,7 +33,7 @@ Sets the counting channel to the channel where the command was used.
 
 ### `/config text-messages <allow_messages>` *(Admin only)*
 
-Decides whether numbers not relevant to the counter should be deleted or not.
+Decides whether messages not relevant to the counter should be deleted or not.
 
 ---
 
