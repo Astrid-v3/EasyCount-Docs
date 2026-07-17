@@ -25,9 +25,15 @@ The bot will count this as `42` while keeping the comment.
 
 ## Commands
 
-### `/set-channel` *(Admin only)*
+### `/config set-channel` *(Admin only)*
 
 Sets the counting channel to the channel where the command was used.
+
+---
+
+### `/config text-messages <allow_messages>` *(Admin only)*
+
+Decides whether numbers not relevant to the counter should be deleted or not.
 
 ---
 
@@ -46,14 +52,6 @@ Example:
 ### `/set <amount>` *(Admin only)*
 
 Sets the current number to a specific value.
-
-Example:
-
-```
-/set 100
-```
-
----
 
 ### `/next`
 
